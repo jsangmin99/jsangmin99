@@ -18,9 +18,9 @@
 <br/>
 
 <a href="https://github.com/itaditya#gh-dark-mode-only">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsangmin99&layout=compact&hide_border=true&bg_color=0E1116&icon_color=ffffff&theme=dark#gh-dark-mode-only"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsangmin99&show_icons=true&theme=radical/>
 </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <a href="https://github.com/itaditya##gh-light-mode-only">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsangmin99&layout=compact&icon_color=000000&hide_border=true&theme=light#gh-light-mode-only"/>
