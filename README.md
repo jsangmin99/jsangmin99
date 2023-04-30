@@ -5,7 +5,7 @@
 
 
 ### Total
-[![wakatime](https://wakatime.com/badge/user/0155422f-b7f8-4647-ad51-6b05094e7fa4.svg?style=for-the-badge)](https://wakatime.com/@0155422f-b7f8-4647-ad51-6b05094e7fa4)
+[![wakatime](https://wakatime.com/badge/user/5aad2684-6bee-45ef-912b-57c9eab97100.svg)](https://wakatime.com/@5aad2684-6bee-45ef-912b-57c9eab97100)
 
 <a href="https://github.com/itaditya#gh-dark-mode-only">
 <img src="https://github-readme-stats.vercel.app/api?username=jsangmin99&count_private=true&hide_border=true&theme=dark&bg_color=0E1116&icon_color=ffffff#gh-dark-mode-only"/>
