@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsangmin99)](https://solved.ac/jsangmin99)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsangmin99)](https://github.com/jsangmin99/github-readme-stats)
 
 
 ### Total
