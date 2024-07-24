@@ -53,14 +53,14 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsangmin99&layout=compact&icon_color=000000&hide_border=true&theme=light#gh-light-mode-only"/>
 </a>
 
-
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/jsangmin99?pet-id=603467215500960122"
-    width="600"
-    height="300"
-  />
+<img
+  src="https://render.gitanimals.org/farms/jsangmin99"
+  width="600"
+  height="300"
+/>
 </a>
+
 
 <!--
 **jsangmin99/jsangmin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
