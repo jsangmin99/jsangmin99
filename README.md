@@ -32,6 +32,8 @@
 
 <br/><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsangmin99&exclude_repo=Dinosaur-Adventure)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Total
 [![wakatime](https://wakatime.com/badge/user/5aad2684-6bee-45ef-912b-57c9eab97100.svg)](https://wakatime.com/@5aad2684-6bee-45ef-912b-57c9eab97100)
 
