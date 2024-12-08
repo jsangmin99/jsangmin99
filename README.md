@@ -52,13 +52,15 @@
 [![Wakatime Stats](https://wakatime.com/badge/user/5aad2684-6bee-45ef-912b-57c9eab97100.svg)](https://wakatime.com/@5aad2684-6bee-45ef-912b-57c9eab97100)
 
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/jsangmin99"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/jsangmin99?pet-id=603467215500960122"
+    width="600"
+    height="300"
+  />
 </a>
+  
 
 
 <!--
